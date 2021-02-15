@@ -6,4 +6,4 @@ MySQL interface to generally keep track of things, modelled on a very global hum
 SetupDB.php lets you create a brain.
 index.php lets you access existing brains.
 
-In SetupDB.php and header.php, adjust the XXX's for your system/preferences.
+In header0.php, adjust the XXX's for your system/preferences.
